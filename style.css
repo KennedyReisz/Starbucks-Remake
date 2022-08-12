@@ -13,8 +13,30 @@ body {
 }
 
 /* The Style */
+
+/* Header */
 .headerContainer .lineBorder {
   background-color: #117050;
   height: 10px;
   width: 100%;
 }
+
+/* HeaderLeft */
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
+
+.headerArea {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+
+.logo a img {
+  width: 64px;
+  height: 64px;
+}
+
+/* HeaderRight */
