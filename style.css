@@ -83,7 +83,7 @@ body {
   background-position: center;
   background-size: cover;
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 93px;
 }
 
 .banner h1 {
@@ -111,13 +111,16 @@ body {
 }
 
 .area1Content {
-
+  
 }
 
 .area1 .area1Image {
   background-color: green;
+  height: 100px;
 }
 
 .area1 .area1Image2 {
   background-color: red;
+  grid-column: 2 / 3;
+  grid-row: 1 / 3;
 }
