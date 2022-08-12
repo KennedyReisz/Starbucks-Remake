@@ -7,8 +7,39 @@ body {
   margin: 0;
 }
 
-/* The Style */
+h1 {
+  font-size: 90px;
+  line-height: 100px;
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 30px;
+}
 
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 46px;
+  margin-bottom: 30px;
+  margin: 20px 0px;
+}
+
+.areasButton {
+  display: inline-block;
+  border: 2px solid #454545;
+  color: #454545;
+  text-decoration: none;
+  padding: 10px 30px;
+  border-radius: 3px;
+}
+
+.areasButton:hover {
+  background-color: #454545;
+  color: white;
+}
+
+/* The Style */
 /* Header */
 .headerContainer .lineBorder {
   background-color: #117050;
@@ -106,6 +137,15 @@ body {
 .area1 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+}
+
+.area1 .area1Quote {
+  margin-bottom: 30px;
+}
+
+.area1 .area1Text {
+  margin-bottom: 50px;
+  line-height: 25px;
 }
 
 .largeBorder {
