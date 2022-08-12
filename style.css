@@ -40,3 +40,42 @@ body {
 }
 
 /* HeaderRight */
+.headerRight {
+  display: flex;
+  align-items: center;
+}
+
+.headerSearch form {
+  display: flex;
+}
+
+.headerSearch input {
+  font-size: 16px;
+  padding: 8px 15px;
+  border: 1px solid rgba(17, 17, 17, 0.3);
+  outline: 0;
+  width: 100%;
+  max-width: 250px;
+}
+
+.headerSearch button {
+  border: 0;
+  background: transparent;
+  margin-left: -30px;
+  cursor: pointer;
+}
+
+.headerSearch button img {
+  width: 16px;
+  height: 16px;
+}
+
+.headerMenu {
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+.headerMenu img {
+  width: 24px;
+  height: 24px;
+}
