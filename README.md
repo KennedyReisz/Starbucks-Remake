@@ -10,7 +10,7 @@
 <br />
 
 <div align=center>
-  <a href="">Preview</a>
+  <a href="https://starbucks-remake.vercel.app/">Preview</a>
 </div>
 
 <div align=center>
