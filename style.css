@@ -229,5 +229,15 @@ h2 {
 
 /* Area4 - Grid */
 .area4 {
-  background-image: url(Assets/Images/bg3.jpg);
+  display: grid;
+  grid-template-columns: 450px 1fr;
+}
+
+.area4 .area4Content {
+  padding: 100px;
+}
+
+.area4 .area4Text {
+  margin-bottom: 50px;
+  line-height: 25px;
 }
