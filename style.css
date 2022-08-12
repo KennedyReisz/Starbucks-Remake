@@ -217,7 +217,7 @@ h2 {
 }
 
 .area3Content {
-  padding: 230px 100px;
+  padding: 280px 100px;
   background: url(Assets/Images/bg2.jpg) left;
   background-size: cover;
 }
@@ -231,13 +231,18 @@ h2 {
 .area4 {
   display: grid;
   grid-template-columns: 450px 1fr;
+  background-color: #e8e9ee;
 }
 
 .area4 .area4Content {
-  padding: 100px;
+  padding: 160px 100px;
 }
 
 .area4 .area4Text {
   margin-bottom: 50px;
   line-height: 25px;
+}
+
+.area4 .area4Image {
+  background: url(Assets/Images/bg3.jpg) left no-repeat;
 }
