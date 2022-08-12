@@ -226,3 +226,8 @@ h2 {
   background: url(Assets/Images/f5.jpg) center;
   background-size: cover;
 }
+
+/* Area4 - Grid */
+.area4 {
+  background-image: url(Assets/Images/bg3.jpg);
+}
