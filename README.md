@@ -22,5 +22,5 @@
 <br />
 
 <div align=center>
-  <footer align=center>Project made in <a href="https://b7web.com.br/">B7Web</a> course 📘</footer>
+  <footer align=center>Project made in <a href="https://b7web.com.br/fullstack/">B7Web</a> course 📘</footer>
 </div>

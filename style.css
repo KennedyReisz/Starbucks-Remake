@@ -1,5 +1,6 @@
 /* Setting's */
 @import url(https://fonts.googleapis.com/css2?family=Oswald:wght@100;200;300;400;500;600;700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;800&display=swap);
 
 * {
   margin: 0;
@@ -8,7 +9,12 @@
 }
 
 body {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 /* The Style */
+.headerContainer .lineBorder {
+  background-color: #117050;
+  height: 10px;
+  width: 100%;
+}
