@@ -246,3 +246,25 @@ h2 {
 .area4 .area4Image {
   background: url(Assets/Images/bg3.jpg) left no-repeat;
 }
+
+/* Area 5 */
+.area5 {
+  background: url(Assets/Images/bg4.jpg) center;
+  background-size: cover;
+  height: 650px;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 100px;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: #006341;
+}
+
+/* Responsivity */
