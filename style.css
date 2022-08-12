@@ -103,3 +103,21 @@ body {
   border: 6px solid #117050;
   border-radius: 50%;
 }
+
+/* Area2 - Grid */
+.area1 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.area1Content {
+
+}
+
+.area1 .area1Image {
+  background-color: green;
+}
+
+.area1 .area1Image2 {
+  background-color: red;
+}
