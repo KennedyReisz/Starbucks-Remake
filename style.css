@@ -79,3 +79,9 @@ body {
   width: 24px;
   height: 24px;
 }
+
+/* Section Banner */
+.banner {
+  background: url("Assets/Images/bg.jpg") center;
+  background-size: cover;
+}
