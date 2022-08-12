@@ -206,3 +206,23 @@ h2 {
 }
 
 /* Area3 - Grid */
+.area3 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.area3 .area2Text {
+  margin-bottom: 50px;
+  line-height: 25px;
+}
+
+.area3Content {
+  padding: 230px 100px;
+  background: url(Assets/Images/bg2.jpg) left;
+  background-size: cover;
+}
+
+.area3 .area3Image {
+  background: url(Assets/Images/f5.jpg) center;
+  background-size: cover;
+}
